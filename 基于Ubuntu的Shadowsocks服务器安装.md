@@ -65,6 +65,6 @@ _备注：可选择的加密方式有“bf-cfb”, “aes-256-cfb”, “des-cfb
 
 或者 不用配置文件 直接加入命令启动如下：
 
-		/usr/local/bin/ssserver -p 8388 -k password -m aes-256-cfb -d start
+	/usr/local/bin/ssserver -p 8388 -k password -m aes-256-cfb -d start
 
 
