@@ -61,7 +61,7 @@ _备注：可选择的加密方式有“bf-cfb”, “aes-256-cfb”, “des-cfb
 
 在 exit 0 这一行的上边加入如下
 
-	/usr/local/bin/ssserver –c /etc/shadowsocks.json
+	/usr/local/bin/ssserver -c /etc/shadowsocks.json -d start
 
 或者 不用配置文件 直接加入命令启动如下：
 
