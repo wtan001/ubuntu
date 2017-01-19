@@ -1,1 +1,0 @@
-基于Ubuntu的shadowsocks服务器安装
