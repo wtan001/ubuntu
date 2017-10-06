@@ -6,7 +6,7 @@
 	
 然后安装PIP环境
 
-	apt-get install phython-pip
+	apt-get install python-pip
 	
 直接安装shadowsocks
 
