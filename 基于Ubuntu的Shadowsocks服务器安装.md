@@ -23,12 +23,12 @@
 		"server_port":8388,
 		"local_address":"127.0.0.1",
 		"local_port":1080,
-		"password":"mypassowrd",
+		"password":"mypassword",
 		"timeout":300,
 		"method":"rc4-md5"
 	}
 	
-_备注：可选择的加密方式有“bf-cfb”, “aes-256-cfb”, “des-cfb”, “rc4″, 等等。_
+_备注：server_ip地址需填写服务器的IP地址，可选择的加密方式有“bf-cfb”, “aes-256-cfb”, “des-cfb”, “rc4″, 等等。_
 
 如果需要配置多个用户，可以这样设置
 
